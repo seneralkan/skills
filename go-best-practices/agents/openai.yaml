@@ -1,0 +1,6 @@
+display_name: Go Backend Best Practices
+short_description: Production-ready standards for Go backend services covering structure, reliability, security, and performance.
+default_prompt: >
+  Review this Go backend service against production best practices.
+  Check project structure, error handling, observability, security, performance,
+  and testing. Prioritize findings by severity and provide actionable patches.

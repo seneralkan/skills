@@ -1,0 +1,6 @@
+display_name: Go Concurrency
+short_description: Concurrency design, debugging, and optimization for Go backends.
+default_prompt: >
+  Review and improve concurrency in this Go backend service.
+  Analyze goroutine lifecycle, cancellation flow, race conditions, backpressure,
+  and shutdown safety. Suggest the right pattern and verify with race detector and leak checks.
