@@ -13,6 +13,10 @@ description: Apply and enforce Go backend engineering best practices across proj
 5. Implement smallest safe diffs first; one concern per commit.
 6. Verify with tests, race detector, linter, and staging rollout.
 
+## References
+- Project/package structure: `references/project-layout.md`
+- Validation command set: `references/review-commands.md`
+
 ## Review checklist
 
 ### 1) Project structure

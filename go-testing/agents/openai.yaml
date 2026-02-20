@@ -1,0 +1,5 @@
+display_name: Go Testing
+short_description: Testing strategy and implementation guidance for reliable Go services.
+default_prompt: >
+  Review this Go codebase and propose a high-signal testing plan.
+  Prioritize risky paths, improve determinism, and add CI quality gates.

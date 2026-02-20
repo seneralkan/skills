@@ -1,0 +1,5 @@
+display_name: Go Clean Architecture
+short_description: Clean architecture and hexagonal design guidance for Go backends.
+default_prompt: >
+  Review this Go backend architecture and propose a clean, testable layering model.
+  Enforce dependency direction, ports/adapters boundaries, and incremental refactor steps.

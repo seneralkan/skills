@@ -1,0 +1,5 @@
+display_name: Go Performance Profiling
+short_description: Evidence-driven profiling and optimization for Go applications.
+default_prompt: >
+  Analyze this Go service for performance bottlenecks.
+  Use pprof and benchmarks to propose minimal, measurable optimizations.

@@ -1,0 +1,6 @@
+display_name: Go Microservices
+short_description: Microservice and event-driven architecture guidance for Go services.
+default_prompt: >
+  Design or review this Go microservices system.
+  Focus on service boundaries, Kafka/SQS/RabbitMQ producer-consumer reliability,
+  event contracts, retries, DLQ, and idempotent processing.

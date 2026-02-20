@@ -13,6 +13,10 @@ description: Design, implement, and debug concurrency in Go services using gorou
 5. Wire cancellation and timeout with `context.Context` from the entrypoint down.
 6. Verify: race detector, goroutine leak checks, benchmarks, and production metrics.
 
+## References
+- Pattern selection heuristics: `references/pattern-selection.md`
+- Concurrency-focused test plan: `references/concurrency-test-plan.md`
+
 ## Patterns reference
 
 ### Worker pool

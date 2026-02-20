@@ -1,0 +1,5 @@
+display_name: Go API Design
+short_description: API design and governance guidance for REST and gRPC Go services.
+default_prompt: >
+  Review and improve this Go API design.
+  Focus on consistency, error contracts, pagination, versioning, and compatibility.
